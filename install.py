@@ -1,5 +1,5 @@
 copy to EV3
-start install.js
+start install_ev3dev.js
 pip install ev3dev
 clone_github_repository ev3_python in EV3
 move python.exe to ev3python.exe
